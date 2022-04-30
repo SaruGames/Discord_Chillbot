@@ -9,4 +9,4 @@ client.on('message', msg=>{
     msg.reply('1234 test 1234 working beep boop')
    }
   )
-client.login(process.env.BOT_TOKEN;
+client.login(process.env.BOT_TOKEN);
